@@ -10,7 +10,7 @@ body {
 
 header {
     font-family: 'Press Start 2P', cursive;
-    background-image: url('file:///../images/header.jpg');
+    background-image: url('images/header.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
